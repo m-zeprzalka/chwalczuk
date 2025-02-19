@@ -41,8 +41,9 @@ export const CTA = () => {
               Skontaktuj się ze mną, aby omówić szczegóły współpracy
             </p>
 
-            <motion.button
+            <motion.a
               whileHover="hover"
+              href="mailto:rafal.chwalczuk@gmail.com"
               initial="initial"
               className="group relative px-8 py-4 bg-blue-500 rounded-lg inline-flex items-center gap-3 text-lg font-medium mt-8 overflow-hidden"
             >
@@ -56,7 +57,7 @@ export const CTA = () => {
                 transition={{ duration: 0.3, ease: "easeInOut" }}
                 className="absolute inset-0 bg-blue-600"
               />
-            </motion.button>
+            </motion.a>
           </div>
         </motion.div>
       </div>
