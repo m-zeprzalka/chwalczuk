@@ -12,6 +12,9 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        archivo: ["Archivo", "sans-serif"], // Dodaj font Archivo
+      },
     },
   },
   plugins: [],
