@@ -117,6 +117,6 @@ export const memberships = [
   {
     organization: "IAB Social Media Working Group",
     role: "Active member",
-    period: "since 2021",
+    period: "2019-1020",
   },
 ];
