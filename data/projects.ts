@@ -11,12 +11,6 @@ export const projects = [
     video: "/videos/lifestyle.mp4",
   },
   {
-    title: "Matura 100 Days Ball",
-    category: "Retro Video",
-    video: "/videos/studniowki.mp4",
-    subtitle: "High School Prom Tradition", // Dodatkowe wyjaśnienie kulturowe
-  },
-  {
     title: "Automotive", // Lepsze niż dosłowne "Motoryzacja"
     category: "Commercial Films",
     video: "/videos/moto.mp4",
