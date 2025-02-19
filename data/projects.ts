@@ -50,7 +50,7 @@ export const contactItems = [
   {
     icon: Linkedin,
     text: "rafalchwalczuk",
-    link: "http://linkedin.com/in/rafalchwalczuk",
+    link: "https://www.linkedin.com/in/chwalczuk/",
   },
 ];
 
