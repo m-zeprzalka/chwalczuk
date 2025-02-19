@@ -19,14 +19,14 @@ export const Contact = () => {
           >
             <div>
               <h2 className="text-4xl md:text-6xl font-bold text-white mb-4">
-                Kontakt
+                Contact
               </h2>
               <p className="text-gray-400 text-lg">
-                Filmem i fotografią zajmuję się odkąd pamiętam – to nie tylko
-                moja praca, ale przede wszystkim pasja. Pierwsze nagrody
-                zdobywałem jeszcze jako nastolatek, a przez lata rozwijałem
-                swoje umiejętności zarówno jako freelancer, jak i w renomowanych
-                firmach. Stwórzmy razem Twoj kolejny projekt.
+                Film and photography have been my passion since childhood – it's
+                not just my profession, but my true calling. I earned my first
+                awards as a teenager, honing my craft both as a freelancer and
+                through work with renowned companies. Let's bring your next
+                project to life.
               </p>
             </div>
 

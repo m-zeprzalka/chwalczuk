@@ -31,14 +31,12 @@ export const CTA = () => {
 
           <div className="relative space-y-8">
             <h2 className="text-5xl md:text-7xl font-bold">
-              Zrealizujmy razem
-              <span className="block text-blue-500 mt-2">
-                Twój następny projekt
-              </span>
+              Let's Create
+              <span className="block text-blue-500 mt-2">Together</span>
             </h2>
 
             <p className="text-xl text-gray-400 max-w-2xl mx-auto">
-              Skontaktuj się ze mną, aby omówić szczegóły współpracy
+              Get in touch to discuss your project
             </p>
 
             <motion.a
@@ -47,7 +45,7 @@ export const CTA = () => {
               initial="initial"
               className="group relative px-8 py-4 bg-blue-500 rounded-lg inline-flex items-center gap-3 text-lg font-medium mt-8 overflow-hidden"
             >
-              <span className="relative z-10">Rozpocznij współpracę</span>
+              <span className="relative z-10">Start Collaboration</span>
               <ArrowRight className="relative z-10 w-5 h-5 group-hover:translate-x-1 transition-transform" />
               <motion.div
                 variants={{

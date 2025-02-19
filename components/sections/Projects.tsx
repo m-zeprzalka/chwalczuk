@@ -25,7 +25,7 @@ export const Projects = () => {
           variants={fadeIn}
           className="text-4xl md:text-6xl font-bold text-white mb-16 text-center"
         >
-          Wybrane realizacje
+          Featured Projects
         </motion.h2>
 
         <Masonry

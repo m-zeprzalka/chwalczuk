@@ -24,12 +24,11 @@ export const Navbar = () => {
         >
           <motion.a
             href="#about"
-            download
             whileHover="hover"
             initial="initial"
             className="group relative px-6 py-2.5 bg-blue-500 rounded-lg inline-flex items-center gap-2 overflow-hidden"
           >
-            <span className="relative z-10">Zobacz CV</span>
+            <span className="relative z-10">View CV</span>
             <Eye className="relative z-10 w-5 h-5" />
             <motion.div
               variants={{

@@ -2,39 +2,38 @@
 export const projects = [
   {
     title: "Banana Socks",
-    category: "Kampania produktowa",
+    category: "Product Campaign",
     video: "/videos/banana.mp4",
   },
   {
     title: "Brandy Lifestyle",
-    category: "Video Marketing",
+    category: "Branded Content",
     video: "/videos/lifestyle.mp4",
   },
   {
-    title: "Studniówki",
+    title: "Matura 100 Days Ball",
     category: "Retro Video",
     video: "/videos/studniowki.mp4",
+    subtitle: "High School Prom Tradition", // Dodatkowe wyjaśnienie kulturowe
   },
   {
-    title: "Motoryzacja",
-    category: "Video Marketing",
+    title: "Automotive", // Lepsze niż dosłowne "Motoryzacja"
+    category: "Commercial Films",
     video: "/videos/moto.mp4",
   },
-
   {
     title: "Cellove",
-    category: "Spot reklamowy",
+    category: "Commercial Spot",
     video: "/videos/cellove.mp4",
   },
   {
     title: "Tech Summit",
-    category: "Relacja eventowa",
+    category: "Event Coverage",
     video: "/videos/tech-summit.mp4",
   },
-
   {
-    title: "Brandy Sportowe",
-    category: "Video Marketing",
+    title: "Sports Brand Films", // Wyjaśniający typ produkcji
+    category: "Branded Content",
     video: "/videos/sport.mp4",
   },
 ];

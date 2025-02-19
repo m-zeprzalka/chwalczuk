@@ -57,8 +57,8 @@ export const Hero = () => {
             transition={{ delay: 0.3 }}
             className="text-lg sm:text-xl md:text-2xl text-gray-300 mb-6 max-w-2xl"
           >
-            Pomagam firmom osiągać cele dzięki filmom<br></br> Reklamowym,
-            wizerunkowym i relacjom z eventów
+            I help companies achieve goals through Commercial, Brand & Event
+            Films
           </motion.p>
 
           <motion.div
@@ -73,7 +73,7 @@ export const Hero = () => {
               initial="initial"
               className="group relative px-8 py-4 bg-blue-500 rounded-lg inline-flex items-center gap-3 text-lg font-medium overflow-hidden"
             >
-              <span className="relative z-10">Zobacz realizacje</span>
+              <span className="relative z-10">Featured Projects</span>
               <ArrowRight className="relative z-10 w-5 h-5 group-hover:translate-x-1 transition-transform" />
               <motion.div
                 variants={{
